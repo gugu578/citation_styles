@@ -83,7 +83,7 @@
   <bibliography et-al-min="6" et-al-use-first="1" second-field-align="flush" entry-spacing="0" line-spacing="2">
     <layout>
       <text variable="citation-number" suffix="."/>
-      <group delimiter="">
+      <group delimiter=" ">
         <text macro="author" suffix="."/>
         <text macro="title" suffix="."/>
         <choose>
